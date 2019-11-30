@@ -1,0 +1,15 @@
+C:\Users\AdMins\Desktop\CNPM\CNPM\CNPM\bin\Debug\CNPM.exe.config
+C:\Users\AdMins\Desktop\CNPM\CNPM\CNPM\bin\Debug\CNPM.exe
+C:\Users\AdMins\Desktop\CNPM\CNPM\CNPM\bin\Debug\CNPM.pdb
+C:\Users\AdMins\Desktop\CNPM\CNPM\CNPM\obj\Debug\CNPM.csprojAssemblyReference.cache
+C:\Users\AdMins\Desktop\CNPM\CNPM\CNPM\obj\Debug\CNPM.Login.resources
+C:\Users\AdMins\Desktop\CNPM\CNPM\CNPM\obj\Debug\CNPM.Mainform.resources
+C:\Users\AdMins\Desktop\CNPM\CNPM\CNPM\obj\Debug\CNPM.Properties.Resources.resources
+C:\Users\AdMins\Desktop\CNPM\CNPM\CNPM\obj\Debug\CNPM.csproj.GenerateResource.cache
+C:\Users\AdMins\Desktop\CNPM\CNPM\CNPM\obj\Debug\CNPM.csproj.CoreCompileInputs.cache
+C:\Users\AdMins\Desktop\CNPM\CNPM\CNPM\obj\Debug\CNPM.exe
+C:\Users\AdMins\Desktop\CNPM\CNPM\CNPM\obj\Debug\CNPM.pdb
+C:\Users\AdMins\Desktop\CNPM\CNPM\CNPM\obj\Debug\CNPM.RegisterForm.resources
+C:\Users\AdMins\Desktop\CNPM\CNPM\CNPM\obj\Debug\CNPM.ChangePassword.resources
+C:\Users\AdMins\Desktop\CNPM\CNPM\CNPM\obj\Debug\CNPM.PersonalInformation.resources
+C:\Users\AdMins\Desktop\CNPM\CNPM\CNPM\obj\Debug\CNPM.YourProduct.resources
